@@ -5,7 +5,7 @@ if (fs.existsSync(".env"))
 global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
-global.appUrl = process.env.APP_URL || "";
+global.appUrl = process.env.APP_URL || "https://lussh-ai-uihg.onrender.com";
 global.email = "macksyn007@gmail.com";
 global.location = "Abuja, Nigeria";
 global.mongodb = process.env.MONGODB_URI || "";
