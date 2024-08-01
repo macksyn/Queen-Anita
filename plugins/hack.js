@@ -13,13 +13,14 @@ smd({ cmdname: "hack", type: "fun", info: "hacking prank", filename: __filename 
     " █ █ █ █ █ █ █ █ 80%",
     " █ █ █ █ █ █ █ █ █ 90%",
     " █ █ █ █ █ █ █ █ █ █ 100%",
-    "System hyjacking on process.. \\n Conecting to Server error to find 404 ",
-    "Device successfully connected... \\n Riciving data...",
-    "Data hyjacked from divice 100% completed \\n killing all evidence killing all malwares...",
+    "System hyjacking on process.. \x0a Conecting to Server 📡 ",
+    "Please Wait...",
+    "Device successfully connected... \x0a Receiving data...",
+    "Data hyjacked from divice 100% completed \\n killing all evidence killing and all malwares...",
     " HACKING COMPLETED ",
-    " SENDING LOG DOCUMENTS...",
-    " SUCCESSFULLY SENT DATA AND Connection disconnected",
-    "BACKLOGS CLEARED"
+    " SENDING LOG DOCUMENTS TO YOUR DM...",
+    "✅ DATA SUCCESSFULLY SENT And Connection Disconnected!",
+    " BACKLOGS CLEARED!!"
   ];
 
   let editedMessage;
