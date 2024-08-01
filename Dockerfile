@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/macksyn/Queen_Anita-V2 /root/macksyn
+RUN git clone https://github.com/macksyn/Lussh-AI /root/macksyn
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
