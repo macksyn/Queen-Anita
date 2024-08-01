@@ -239,11 +239,11 @@ astro_patch.cmd(
       const { commands } = require("../lib");
       let listMessage = `\n  
 ╭━━〘 * ${Config.botname} * 〙    
-┃ 🎗 Prefix: ${Config.HANDLERS}
-┃ 🎗 Owner: ${Config.ownername}
-┃ 🎗 Commands: ${commands.length}
-┃ 🎗 Uptime: ${runtime(process.uptime())}
-┃ 🎗 Mem: ${formatp(os.totalmem() - os.freemem())}
+┃ 🎗 *Prefix*   : ${Config.HANDLERS}
+┃ 🎗 *Owner*    : ${Config.ownername}
+┃ 🎗 *Commands* : ${commands.length}
+┃ 🎗 *Uptime*   : ${runtime(process.uptime())}
+┃ 🎗 *Memory*   : ${formatp(os.totalmem() - os.freemem())}
 ╰━━━━━━━━━━━━━━⊷\n`;
 
       for (let i = 0; i < commands.length; i++) {
