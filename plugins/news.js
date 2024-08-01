@@ -56,7 +56,7 @@ smd(
 smd(
   {
     pattern: "iosnews",
-    alias: ["ios"],
+    alias: ["iphonenews"],
     desc: "Fetches the latest iOS news.",
     category: "news",
     filename: __filename,
